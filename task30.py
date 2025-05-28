@@ -1,4 +1,6 @@
-a=5
-b=3
+a=float(input())
+b=float(input())
 
-print(f"{a}+{b}={a+b}" )
+c=f"{a}+{b}={a+b}"
+
+print(int(c))
