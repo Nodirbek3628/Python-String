@@ -3,4 +3,4 @@ b=float(input())
 
 c=f"{a}+{b}={a+b}"
 
-print(int(c))
+print(c)
